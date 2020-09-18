@@ -1,0 +1,11 @@
+﻿customer_id,nrofautomatedtestcases,nrofmanualtestcases,nrofmanualtestcasesexecutedperyear,nrofautomatedtestcasesexecutedperyear,nroftotaltestcasesexecutedperyear,costavoidanceperyear,hoursspentontestingperyear,hoursspentonmanualtestingperyear,hoursspentonautomatedtestingperyear,hoursspentonautomatedtestprep,hoursspentonautomatedtestexec,hoursspentonmanualtestprep,hoursspentonmanualtestexec,Totallaborcostperyear,minpreppertestcaseexecution_manual,minexecutionpertestcaseexecution_manual,totalminpertestcase_manual,minreportingpertestcaseexecution_manual
+133,140,560,28728,7182,35910,14169600,3552,2891,661,539,120,9576,479,194054.37,5,1,6,0
+137,0,2100,14385,0,14385,0,2039,2039,0,0,0,7193,240,65596.5,8,1,9,0
+150,0,6400,233600,0,233600,51120000,64241,64241,0,0,0,233600,5840,167995.83,15,2,17,0
+157,0,315,12569,0,12569,2037500,738,738,0,0,0,2095,210,17428.9,3,1,4,0
+146,0,2100,22680,0,22680,0,3986,3986,0,0,0,11340,1134,69790.9,8,3,11,0
+148,0,2800,29568,0,29568,0,3959,3959,0,0,0,9856,1478,48583.13,5,3,8,0
+164,0,800,32000,0,32000,0,4960,4960,0,0,0,16000,1600,135660.29,6,3,9,0
+167,0,540,57240,0,57240,0,27730,27730,0,0,0,76320,7632,91940.5,20,8,29,1
+160,0,6558,1541163,0,1541163,19769750,147751,147751,0,0,0,385291,51372,104980.69,4,2,6,0
+195,0,9368,4900,0,4900,17085250,2918,2918,0,0,0,1225,1633,78625.85,15,20,36,1
